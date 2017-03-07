@@ -1,0 +1,6 @@
+framework module CainVanTestFramework {
+  umbrella header "CainVanTestFramework.h"
+
+  export *
+  module * { export * }
+}
